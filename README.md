@@ -1,2 +1,2 @@
 # Python-tkinter-colorblindgame
-Color Blind Game
+This is the Color Blind Game, developed in Python using the Tkinter library.
