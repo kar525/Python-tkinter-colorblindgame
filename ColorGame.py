@@ -1,6 +1,3 @@
-#1.เลขที่ 7 เลขทะเบียน 6203684300 2.ในปัจจุบันฟิลเตอร์แยกสีเป็นที่นิยมเล่นกัน นักศึกษาจึงอยากจำลองออกมาในรูปแบบ GUI python program 3.program นี้ ใช้ widget 1.button 2.toplevel 3.label 4.messagebox
-import random as rn
-import tkinter as tk
 from tkinter import messagebox
 from tkinter import font
 class colorgame(tk.Frame):
